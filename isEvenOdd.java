@@ -8,3 +8,4 @@ void printOddEven(){ int i = 1; while(i <= 10){if(isEven(i)){System.out.println(
 printOddEven()
 void printEven(){ int i = 1; while(i <= 10){if(isEven(i)){System.out.println(i + " is even");} i++;}}
 printEven()
+isEven(13)
